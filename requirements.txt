@@ -1,2 +1,0 @@
-ibm-watsonx-ai>=0.2.6
-requests>=2.31.0
